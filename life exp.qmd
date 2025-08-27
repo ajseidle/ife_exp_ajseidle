@@ -1,5 +1,5 @@
 ---
-title: "Examine Life Expectancy"
+title: "Examine Life Exp"
 editor: visual
 date: today
 format: html
